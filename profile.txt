@@ -2,4 +2,4 @@ Name: Ho Thien Ty
 
 Interests: Coding, Design
 
-Skills: Rust, Python
+Skills: Rust, Python, Go
